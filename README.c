@@ -1,5 +1,3 @@
-**C Language README**
-
 ### Introduction
 Welcome to the C Language repository! This README file serves as a guide to get you started with C programming and navigating through this repository.
 
